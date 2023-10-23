@@ -1,0 +1,54 @@
+☐ Implement more text formatting tags
+    ☐ <strong> - Important text
+    ☐ <em> - Emphasized text
+    ☐ <mark> - Marked text
+    ☐ <small> - Smaller text
+    ☐ <del> - Deleted text / <ins> - Inserted text
+    ☐ <sub> - Subscript text
+    ☐ <sup> - Superscript text
+
+☐ Implement input elements
+    ☐ <button>
+    ☐ <textarea>
+    ☐ <input>
+        ☐ Implement types (as an Enum)
+            ☐ <input type="button">
+            ☐ <input type="checkbox">
+            ☐ <input type="color">
+            ☐ <input type="date">
+            ☐ <input type="datetime-local">
+            ☐ <input type="email">
+            ☐ <input type="file">
+            ☐ <input type="hidden">
+            ☐ <input type="image">
+            ☐ <input type="month">
+            ☐ <input type="number">
+            ☐ <input type="password">
+            ☐ <input type="radio">
+            ☐ <input type="range">
+            ☐ <input type="reset">
+            ☐ <input type="search">
+            ☐ <input type="submit">
+            ☐ <input type="tel">
+            ☐ <input type="text">
+            ☐ <input type="time">
+            ☐ <input type="url">
+            ☐ <input type="week">
+        
+
+☐ Refine custom components
+    ☐ Shouldn't need to explicitly call `Render()`
+    ☐ Need **props** and **state** support
+
+☐ Add **state** management
+
+☐ Add CSS loading facilities 
+
+☐ Add CSS-in-Go
+
+☐ Add utility interfaces
+    ☐ LocalStorage
+    ☐ SessionStorage
+    ☐ [MessageChannel](https://developer.mozilla.org/en-US/docs/Web/API/MessageChannel)
+
+☐ Add Routers
