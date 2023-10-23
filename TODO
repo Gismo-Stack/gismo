@@ -7,6 +7,11 @@
     ☐ <sub> - Subscript text
     ☐ <sup> - Superscript text
 
+☐ Implement more multimedia tags
+    ☐ <audio>
+    ☐ <video>
+    ☐ <iframe>
+
 ☐ Implement input elements
     ☐ <button>
     ☐ <textarea>
